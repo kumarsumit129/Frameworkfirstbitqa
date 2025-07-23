@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <test verbose="2" preserve-order="true"
+          name="C:/Users/sumit kumar qa/IdeaProjects/Frameworkfirstbitqa/src/test/java/com/firstbit/W3CValidationTest.java">
+        <classes>
+            <class name="com.firstbit.W3CValidationTest">
+                <methods>
+                    <include name="validateMultipleUrls"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+</suite>
